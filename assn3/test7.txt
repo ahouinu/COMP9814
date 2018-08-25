@@ -1,0 +1,629 @@
+Initial Goals: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+Cycle 0:
+  Agent at: (1,1)
+  World: []
+  Percepts: []
+  Goals: []
+  Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  New Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  Action: move(1,1)
+  Updated World: []
+  Observation: at(1,1)
+  Updated Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+Cycle 1:
+  Agent at: (1,1)
+  World: []
+  Percepts: []
+  Goals: []
+  Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  New Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  Action: move(1,1)
+  Updated World: []
+  Observation: at(1,1)
+  Updated Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+Cycle 2:
+  Event: stone appears at (7,4)
+  Agent at: (1,1)
+  World: [stone_at(7,4)]
+  Percepts: [stone(7,4)]
+  Goals: [goal(7,4)]
+  Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  New Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  Action: move(1,1)
+  Updated World: [stone_at(7,4)]
+  Observation: at(1,1)
+  Updated Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+Cycle 3:
+  Agent at: (1,1)
+  World: [stone_at(7,4)]
+  Percepts: [stone(7,4)]
+  Goals: [goal(7,4)]
+  Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  New Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  Action: move(1,1)
+  Updated World: [stone_at(7,4)]
+  Observation: at(1,1)
+  Updated Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+Cycle 4:
+  Agent at: (1,1)
+  World: [stone_at(7,4)]
+  Percepts: [stone(7,4)]
+  Goals: [goal(7,4)]
+  Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  New Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  Action: move(1,1)
+  Updated World: [stone_at(7,4)]
+  Observation: at(1,1)
+  Updated Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+Cycle 5:
+  Agent at: (1,1)
+  World: [stone_at(7,4)]
+  Percepts: [stone(7,4)]
+  Goals: [goal(7,4)]
+  Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  New Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  Action: move(1,1)
+  Updated World: [stone_at(7,4)]
+  Observation: at(1,1)
+  Updated Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+Cycle 6:
+  Agent at: (1,1)
+  World: [stone_at(7,4)]
+  Percepts: [stone(7,4)]
+  Goals: [goal(7,4)]
+  Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  New Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  Action: move(1,1)
+  Updated World: [stone_at(7,4)]
+  Observation: at(1,1)
+  Updated Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+Cycle 7:
+  Agent at: (1,1)
+  World: [stone_at(7,4)]
+  Percepts: [stone(7,4)]
+  Goals: [goal(7,4)]
+  Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  New Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  Action: move(1,1)
+  Updated World: [stone_at(7,4)]
+  Observation: at(1,1)
+  Updated Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+Cycle 8:
+  Agent at: (1,1)
+  World: [stone_at(7,4)]
+  Percepts: [stone(7,4)]
+  Goals: [goal(7,4)]
+  Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  New Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  Action: move(1,1)
+  Updated World: [stone_at(7,4)]
+  Observation: at(1,1)
+  Updated Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+Cycle 9:
+  Agent at: (1,1)
+  World: [stone_at(7,4)]
+  Percepts: [stone(7,4)]
+  Goals: [goal(7,4)]
+  Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  New Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  Action: move(1,1)
+  Updated World: [stone_at(7,4)]
+  Observation: at(1,1)
+  Updated Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+Cycle 10:
+  Agent at: (1,1)
+  World: [stone_at(7,4)]
+  Percepts: [stone(7,4)]
+  Goals: [goal(7,4)]
+  Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  New Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  Action: move(1,1)
+  Updated World: [stone_at(7,4)]
+  Observation: at(1,1)
+  Updated Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+Cycle 11:
+  Event: stone appears at (1,2)
+  Agent at: (1,1)
+  World: [stone_at(7,4),stone_at(1,2)]
+  Percepts: [stone(7,4),stone(1,2)]
+  Goals: [goal(7,4),goal(1,2)]
+  Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(1,2),[]]])
+  New Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(1,2),[]]])
+  Action: pick(1,2)
+  Updated World: [stone_at(7,4)]
+  Observation: picked(1,2)
+  Updated Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+Cycle 12:
+  Agent at: (1,1)
+  World: [stone_at(7,4)]
+  Percepts: [stone(7,4)]
+  Goals: [goal(7,4)]
+  Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  New Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  Action: move(1,1)
+  Updated World: [stone_at(7,4)]
+  Observation: at(1,1)
+  Updated Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+Cycle 13:
+  Agent at: (1,1)
+  World: [stone_at(7,4)]
+  Percepts: [stone(7,4)]
+  Goals: [goal(7,4)]
+  Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  New Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  Action: move(1,1)
+  Updated World: [stone_at(7,4)]
+  Observation: at(1,1)
+  Updated Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+Cycle 14:
+  Agent at: (1,1)
+  World: [stone_at(7,4)]
+  Percepts: [stone(7,4)]
+  Goals: [goal(7,4)]
+  Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  New Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  Action: move(1,1)
+  Updated World: [stone_at(7,4)]
+  Observation: at(1,1)
+  Updated Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+Cycle 15:
+  Agent at: (1,1)
+  World: [stone_at(7,4)]
+  Percepts: [stone(7,4)]
+  Goals: [goal(7,4)]
+  Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  New Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  Action: move(1,1)
+  Updated World: [stone_at(7,4)]
+  Observation: at(1,1)
+  Updated Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+Cycle 16:
+  Agent at: (1,1)
+  World: [stone_at(7,4)]
+  Percepts: [stone(7,4)]
+  Goals: [goal(7,4)]
+  Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  New Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+  Action: move(1,1)
+  Updated World: [stone_at(7,4)]
+  Observation: at(1,1)
+  Updated Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[])
+Cycle 17:
+  Event: stone appears at (4,1)
+  Agent at: (1,1)
+  World: [stone_at(7,4),stone_at(4,1)]
+  Percepts: [stone(7,4),stone(4,1)]
+  Goals: [goal(7,4),goal(4,1)]
+  Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,1),[]]])
+  New Intentions: intents([[goal(5,3),[move(3,1),move(4,1),move(5,1),move(5,2),drop(5,3)]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,1),[]]])
+  Action: move(2,1)
+  Updated World: [stone_at(7,4),stone_at(4,1)]
+  Observation: at(2,1)
+  Updated Intentions: intents([[goal(5,3),[move(3,1),move(4,1),move(5,1),move(5,2),drop(5,3)]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,1),[]]])
+Cycle 18:
+  Agent at: (2,1)
+  World: [stone_at(7,4),stone_at(4,1)]
+  Percepts: [stone(7,4),stone(4,1)]
+  Goals: [goal(7,4),goal(4,1)]
+  Intentions: intents([[goal(5,3),[move(3,1),move(4,1),move(5,1),move(5,2),drop(5,3)]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,1),[]]])
+  New Intentions: intents([[goal(5,3),[move(4,1),move(5,1),move(5,2),drop(5,3)]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,1),[]]])
+  Action: move(3,1)
+  Updated World: [stone_at(7,4),stone_at(4,1)]
+  Observation: at(3,1)
+  Updated Intentions: intents([[goal(5,3),[move(4,1),move(5,1),move(5,2),drop(5,3)]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,1),[]]])
+Cycle 19:
+  Agent at: (3,1)
+  World: [stone_at(7,4),stone_at(4,1)]
+  Percepts: [stone(7,4),stone(4,1)]
+  Goals: [goal(7,4),goal(4,1)]
+  Intentions: intents([[goal(5,3),[move(4,1),move(5,1),move(5,2),drop(5,3)]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,1),[]]])
+  New Intentions: intents([[goal(5,3),[move(5,1),move(5,2),drop(5,3)]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,1),[]]])
+  Action: move(4,1)
+  Updated World: [stone_at(7,4),stone_at(4,1)]
+  Observation: at(4,1)
+  Updated Intentions: intents([[goal(5,3),[move(5,1),move(5,2),drop(5,3)]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,1),[]]])
+Cycle 20:
+  Agent at: (4,1)
+  World: [stone_at(7,4),stone_at(4,1)]
+  Percepts: [stone(7,4),stone(4,1)]
+  Goals: [goal(7,4),goal(4,1)]
+  Intentions: intents([[goal(5,3),[move(5,1),move(5,2),drop(5,3)]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,1),[]]])
+  New Intentions: intents([[goal(5,3),[move(5,2),drop(5,3)]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,1),[]]])
+  Action: move(5,1)
+  Updated World: [stone_at(7,4),stone_at(4,1)]
+  Observation: at(5,1)
+  Updated Intentions: intents([[goal(5,3),[move(5,2),drop(5,3)]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,1),[]]])
+Cycle 21:
+  Agent at: (5,1)
+  World: [stone_at(7,4),stone_at(4,1)]
+  Percepts: [stone(7,4),stone(4,1)]
+  Goals: [goal(7,4),goal(4,1)]
+  Intentions: intents([[goal(5,3),[move(5,2),drop(5,3)]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,1),[]]])
+  New Intentions: intents([[goal(5,3),[drop(5,3)]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,1),[]]])
+  Action: move(5,2)
+  Updated World: [stone_at(7,4),stone_at(4,1)]
+  Observation: at(5,2)
+  Updated Intentions: intents([[goal(5,3),[drop(5,3)]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,1),[]]])
+Cycle 22:
+  Agent at: (5,2)
+  World: [stone_at(7,4),stone_at(4,1)]
+  Percepts: [stone(7,4),stone(4,1)]
+  Goals: [goal(7,4),goal(4,1)]
+  Intentions: intents([[goal(5,3),[drop(5,3)]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,1),[]]])
+  New Intentions: intents([[goal(5,3),[]],[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,1),[]]])
+  Action: drop(5,3)
+  Updated World: [stone_at(7,4),stone_at(4,1)]
+  Observation: dropped(5,3)
+  Updated Intentions: intents([[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,1),[]]])
+Cycle 23:
+  Agent at: (5,2)
+  World: [stone_at(7,4),stone_at(4,1)]
+  Percepts: [stone(7,4),stone(4,1)]
+  Goals: [goal(7,4),goal(4,1)]
+New Path Not Found: [goal(5,2),goal(5,1),goal(4,1)]
+G :4 G1 :2  Intentions: intents([[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,1),[]],[goal(7,4),[]]])
+  New Intentions: intents([[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,1),[pick(4,1)]],[goal(7,4),[]]])
+  Action: move(5,1)
+  Updated World: [stone_at(7,4),stone_at(4,1)]
+  Observation: at(5,1)
+  Updated Intentions: intents([[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,1),[pick(4,1)]],[goal(7,4),[]]])
+Cycle 24:
+  Agent at: (5,1)
+  World: [stone_at(7,4),stone_at(4,1)]
+  Percepts: [stone(7,4),stone(4,1)]
+  Goals: [goal(7,4),goal(4,1)]
+New Path Not Found: [goal(5,1),goal(4,1)]
+G :5 G1 :1  Intentions: intents([[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,1),[pick(4,1)]],[goal(7,4),[]]])
+  New Intentions: intents([[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,1),[]],[goal(7,4),[]]])
+  Action: pick(4,1)
+  Updated World: [stone_at(7,4)]
+  Observation: picked(4,1)
+  Updated Intentions: intents([[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(7,4),[]]])
+Cycle 25:
+  Agent at: (5,1)
+  World: [stone_at(7,4)]
+  Percepts: [stone(7,4)]
+  Goals: [goal(7,4)]
+  Intentions: intents([[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(7,4),[]]])
+  New Intentions: intents([[goal(7,6),[move(5,3),move(5,4),move(6,4),move(6,5),move(6,6),drop(7,6)]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(7,4),[]]])
+  Action: move(5,2)
+  Updated World: [stone_at(7,4)]
+  Observation: at(5,2)
+  Updated Intentions: intents([[goal(7,6),[move(5,3),move(5,4),move(6,4),move(6,5),move(6,6),drop(7,6)]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(7,4),[]]])
+Cycle 26:
+  Event: stone appears at (4,3)
+  Agent at: (5,2)
+  World: [stone_at(7,4),stone_at(4,3)]
+  Percepts: [stone(7,4),stone(4,3)]
+  Goals: [goal(7,4),goal(4,3)]
+New Path Not Found: [goal(5,2),goal(5,3),goal(5,4),goal(6,4),goal(7,4)]
+G :2 G1 :4New Path Found: [goal(5,2),goal(5,3),goal(5,4),goal(6,4),goal(7,4)]
+G :2 G1 :4  Intentions: intents([[goal(7,6),[move(5,3),move(5,4),move(6,4),move(6,5),move(6,6),drop(7,6)]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,3),[]],[goal(7,4),[]]])
+  New Intentions: intents([[goal(7,6),[move(5,4),move(6,4),move(6,5),move(6,6),drop(7,6)]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,3),[]],[goal(7,4),[]]])
+  Action: move(5,3)
+  Updated World: [stone_at(7,4),stone_at(4,3)]
+  Observation: at(5,3)
+  Updated Intentions: intents([[goal(7,6),[move(5,4),move(6,4),move(6,5),move(6,6),drop(7,6)]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,3),[]],[goal(7,4),[]]])
+Cycle 27:
+  Agent at: (5,3)
+  World: [stone_at(7,4),stone_at(4,3)]
+  Percepts: [stone(7,4),stone(4,3)]
+  Goals: [goal(7,4),goal(4,3)]
+New Path Not Found: [goal(5,3),goal(4,3)]
+G :3 G1 :1  Intentions: intents([[goal(7,6),[move(5,4),move(6,4),move(6,5),move(6,6),drop(7,6)]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,3),[]],[goal(7,4),[]]])
+  New Intentions: intents([[goal(7,6),[move(6,4),move(6,5),move(6,6),drop(7,6)]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,3),[]],[goal(7,4),[]]])
+  Action: move(5,4)
+  Updated World: [stone_at(7,4),stone_at(4,3)]
+  Observation: at(5,4)
+  Updated Intentions: intents([[goal(7,6),[move(6,4),move(6,5),move(6,6),drop(7,6)]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,3),[]],[goal(7,4),[]]])
+Cycle 28:
+  Agent at: (5,4)
+  World: [stone_at(7,4),stone_at(4,3)]
+  Percepts: [stone(7,4),stone(4,3)]
+  Goals: [goal(7,4),goal(4,3)]
+New Path Not Found: [goal(5,4),goal(5,3),goal(4,3)]
+G :2 G1 :2  Intentions: intents([[goal(7,6),[move(6,4),move(6,5),move(6,6),drop(7,6)]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,3),[]],[goal(7,4),[]]])
+  New Intentions: intents([[goal(7,6),[move(6,5),move(6,6),drop(7,6)]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,3),[]],[goal(7,4),[]]])
+  Action: move(6,4)
+  Updated World: [stone_at(7,4),stone_at(4,3)]
+  Observation: at(6,4)
+  Updated Intentions: intents([[goal(7,6),[move(6,5),move(6,6),drop(7,6)]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,3),[]],[goal(7,4),[]]])
+Cycle 29:
+  Agent at: (6,4)
+  World: [stone_at(7,4),stone_at(4,3)]
+  Percepts: [stone(7,4),stone(4,3)]
+  Goals: [goal(7,4),goal(4,3)]
+New Path Not Found: [goal(6,4),goal(5,4),goal(5,3),goal(4,3)]
+G :1 G1 :3New Path Found: [goal(6,4),goal(5,4),goal(5,3),goal(4,3)]
+G :1 G1 :3New Path Not Found: [goal(6,4),goal(7,4)]
+G :3 G1 :1  Intentions: intents([[goal(7,6),[move(6,5),move(6,6),drop(7,6)]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(7,4),[]],[goal(4,3),[]],[goal(7,4),[]]])
+  New Intentions: intents([[goal(7,6),[move(6,6),drop(7,6)]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(7,4),[]],[goal(4,3),[]],[goal(7,4),[]]])
+  Action: move(6,5)
+  Updated World: [stone_at(7,4),stone_at(4,3)]
+  Observation: at(6,5)
+  Updated Intentions: intents([[goal(7,6),[move(6,6),drop(7,6)]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(7,4),[]],[goal(4,3),[]],[goal(7,4),[]]])
+Cycle 30:
+  Agent at: (6,5)
+  World: [stone_at(7,4),stone_at(4,3)]
+  Percepts: [stone(7,4),stone(4,3)]
+  Goals: [goal(7,4),goal(4,3)]
+New Path Not Found: [goal(6,5),goal(6,4),goal(7,4)]
+G :4 G1 :2  Intentions: intents([[goal(7,6),[move(6,6),drop(7,6)]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(7,4),[]],[goal(4,3),[]],[goal(7,4),[]]])
+  New Intentions: intents([[goal(7,6),[drop(7,6)]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(7,4),[]],[goal(4,3),[]],[goal(7,4),[]]])
+  Action: move(6,6)
+  Updated World: [stone_at(7,4),stone_at(4,3)]
+  Observation: at(6,6)
+  Updated Intentions: intents([[goal(7,6),[drop(7,6)]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(7,4),[]],[goal(4,3),[]],[goal(7,4),[]]])
+Cycle 31:
+  Agent at: (6,6)
+  World: [stone_at(7,4),stone_at(4,3)]
+  Percepts: [stone(7,4),stone(4,3)]
+  Goals: [goal(7,4),goal(4,3)]
+New Path Not Found: [goal(6,6),goal(6,5),goal(6,4),goal(7,4)]
+G :5 G1 :3  Intentions: intents([[goal(7,6),[drop(7,6)]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(7,4),[]],[goal(4,3),[]],[goal(7,4),[]]])
+  New Intentions: intents([[goal(7,6),[]],[goal(8,6),[]],[goal(9,9),[]]],[[goal(7,4),[]],[goal(4,3),[]],[goal(7,4),[]]])
+  Action: drop(7,6)
+  Updated World: [stone_at(7,4),stone_at(4,3)]
+  Observation: dropped(7,6)
+  Updated Intentions: intents([[goal(8,6),[]],[goal(9,9),[]]],[[goal(7,4),[]],[goal(4,3),[]],[goal(7,4),[]]])
+Cycle 32:
+  Agent at: (6,6)
+  World: [stone_at(7,4),stone_at(4,3)]
+  Percepts: [stone(7,4),stone(4,3)]
+  Goals: [goal(7,4),goal(4,3)]
+New Path Not Found: [goal(6,6),goal(6,5),goal(6,4),goal(7,4)]
+G :5 G1 :3  Intentions: intents([[goal(8,6),[]],[goal(9,9),[]]],[[goal(7,4),[]],[goal(4,3),[]],[goal(7,4),[]]])
+  New Intentions: intents([[goal(8,6),[]],[goal(9,9),[]]],[[goal(7,4),[move(6,4),pick(7,4)]],[goal(4,3),[]],[goal(7,4),[]]])
+  Action: move(6,5)
+  Updated World: [stone_at(7,4),stone_at(4,3)]
+  Observation: at(6,5)
+  Updated Intentions: intents([[goal(8,6),[]],[goal(9,9),[]]],[[goal(7,4),[move(6,4),pick(7,4)]],[goal(4,3),[]],[goal(7,4),[]]])
+Cycle 33:
+  Agent at: (6,5)
+  World: [stone_at(7,4),stone_at(4,3)]
+  Percepts: [stone(7,4),stone(4,3)]
+  Goals: [goal(7,4),goal(4,3)]
+New Path Not Found: [goal(6,5),goal(6,4),goal(7,4)]
+G :4 G1 :2  Intentions: intents([[goal(8,6),[]],[goal(9,9),[]]],[[goal(7,4),[move(6,4),pick(7,4)]],[goal(4,3),[]],[goal(7,4),[]]])
+  New Intentions: intents([[goal(8,6),[]],[goal(9,9),[]]],[[goal(7,4),[pick(7,4)]],[goal(4,3),[]],[goal(7,4),[]]])
+  Action: move(6,4)
+  Updated World: [stone_at(7,4),stone_at(4,3)]
+  Observation: at(6,4)
+  Updated Intentions: intents([[goal(8,6),[]],[goal(9,9),[]]],[[goal(7,4),[pick(7,4)]],[goal(4,3),[]],[goal(7,4),[]]])
+Cycle 34:
+  Agent at: (6,4)
+  World: [stone_at(7,4),stone_at(4,3)]
+  Percepts: [stone(7,4),stone(4,3)]
+  Goals: [goal(7,4),goal(4,3)]
+New Path Not Found: [goal(6,4),goal(7,4)]
+G :3 G1 :1  Intentions: intents([[goal(8,6),[]],[goal(9,9),[]]],[[goal(7,4),[pick(7,4)]],[goal(4,3),[]],[goal(7,4),[]]])
+  New Intentions: intents([[goal(8,6),[]],[goal(9,9),[]]],[[goal(7,4),[]],[goal(4,3),[]],[goal(7,4),[]]])
+  Action: pick(7,4)
+  Updated World: [stone_at(4,3)]
+  Observation: picked(7,4)
+  Updated Intentions: intents([[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,3),[]],[goal(7,4),[]]])
+Cycle 35:
+  Agent at: (6,4)
+  World: [stone_at(4,3)]
+  Percepts: [stone(4,3)]
+  Goals: [goal(4,3)]
+  Intentions: intents([[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,3),[]],[goal(7,4),[]]])
+  New Intentions: intents([[goal(8,6),[move(6,6),move(7,6),drop(8,6)]],[goal(9,9),[]]],[[goal(4,3),[]],[goal(7,4),[]]])
+  Action: move(6,5)
+  Updated World: [stone_at(4,3)]
+  Observation: at(6,5)
+  Updated Intentions: intents([[goal(8,6),[move(6,6),move(7,6),drop(8,6)]],[goal(9,9),[]]],[[goal(4,3),[]],[goal(7,4),[]]])
+Cycle 36:
+  Agent at: (6,5)
+  World: [stone_at(4,3)]
+  Percepts: [stone(4,3)]
+  Goals: [goal(4,3)]
+  Intentions: intents([[goal(8,6),[move(6,6),move(7,6),drop(8,6)]],[goal(9,9),[]]],[[goal(4,3),[]],[goal(7,4),[]]])
+  New Intentions: intents([[goal(8,6),[move(7,6),drop(8,6)]],[goal(9,9),[]]],[[goal(4,3),[]],[goal(7,4),[]]])
+  Action: move(6,6)
+  Updated World: [stone_at(4,3)]
+  Observation: at(6,6)
+  Updated Intentions: intents([[goal(8,6),[move(7,6),drop(8,6)]],[goal(9,9),[]]],[[goal(4,3),[]],[goal(7,4),[]]])
+Cycle 37:
+  Agent at: (6,6)
+  World: [stone_at(4,3)]
+  Percepts: [stone(4,3)]
+  Goals: [goal(4,3)]
+  Intentions: intents([[goal(8,6),[move(7,6),drop(8,6)]],[goal(9,9),[]]],[[goal(4,3),[]],[goal(7,4),[]]])
+  New Intentions: intents([[goal(8,6),[drop(8,6)]],[goal(9,9),[]]],[[goal(4,3),[]],[goal(7,4),[]]])
+  Action: move(7,6)
+  Updated World: [stone_at(4,3)]
+  Observation: at(7,6)
+  Updated Intentions: intents([[goal(8,6),[drop(8,6)]],[goal(9,9),[]]],[[goal(4,3),[]],[goal(7,4),[]]])
+Cycle 38:
+  Agent at: (7,6)
+  World: [stone_at(4,3)]
+  Percepts: [stone(4,3)]
+  Goals: [goal(4,3)]
+  Intentions: intents([[goal(8,6),[drop(8,6)]],[goal(9,9),[]]],[[goal(4,3),[]],[goal(7,4),[]]])
+  New Intentions: intents([[goal(8,6),[]],[goal(9,9),[]]],[[goal(4,3),[]],[goal(7,4),[]]])
+  Action: drop(8,6)
+  Updated World: [stone_at(4,3)]
+  Observation: dropped(8,6)
+  Updated Intentions: intents([[goal(9,9),[]]],[[goal(4,3),[]],[goal(7,4),[]]])
+Cycle 39:
+  Agent at: (7,6)
+  World: [stone_at(4,3)]
+  Percepts: [stone(4,3)]
+  Goals: [goal(4,3)]
+  Intentions: intents([[goal(9,9),[]]],[[goal(4,3),[]],[goal(7,4),[]]])
+  New Intentions: intents([[goal(9,9),[]]],[[goal(4,3),[move(6,5),move(6,4),move(5,4),move(5,3),pick(4,3)]],[goal(7,4),[]]])
+  Action: move(6,6)
+  Updated World: [stone_at(4,3)]
+  Observation: at(6,6)
+  Updated Intentions: intents([[goal(9,9),[]]],[[goal(4,3),[move(6,5),move(6,4),move(5,4),move(5,3),pick(4,3)]],[goal(7,4),[]]])
+Cycle 40:
+  Agent at: (6,6)
+  World: [stone_at(4,3)]
+  Percepts: [stone(4,3)]
+  Goals: [goal(4,3)]
+  Intentions: intents([[goal(9,9),[]]],[[goal(4,3),[move(6,5),move(6,4),move(5,4),move(5,3),pick(4,3)]],[goal(7,4),[]]])
+  New Intentions: intents([[goal(9,9),[]]],[[goal(4,3),[move(6,4),move(5,4),move(5,3),pick(4,3)]],[goal(7,4),[]]])
+  Action: move(6,5)
+  Updated World: [stone_at(4,3)]
+  Observation: at(6,5)
+  Updated Intentions: intents([[goal(9,9),[]]],[[goal(4,3),[move(6,4),move(5,4),move(5,3),pick(4,3)]],[goal(7,4),[]]])
+Cycle 41:
+  Agent at: (6,5)
+  World: [stone_at(4,3)]
+  Percepts: [stone(4,3)]
+  Goals: [goal(4,3)]
+  Intentions: intents([[goal(9,9),[]]],[[goal(4,3),[move(6,4),move(5,4),move(5,3),pick(4,3)]],[goal(7,4),[]]])
+  New Intentions: intents([[goal(9,9),[]]],[[goal(4,3),[move(5,4),move(5,3),pick(4,3)]],[goal(7,4),[]]])
+  Action: move(6,4)
+  Updated World: [stone_at(4,3)]
+  Observation: at(6,4)
+  Updated Intentions: intents([[goal(9,9),[]]],[[goal(4,3),[move(5,4),move(5,3),pick(4,3)]],[goal(7,4),[]]])
+Cycle 42:
+  Agent at: (6,4)
+  World: [stone_at(4,3)]
+  Percepts: [stone(4,3)]
+  Goals: [goal(4,3)]
+  Intentions: intents([[goal(9,9),[]]],[[goal(4,3),[move(5,4),move(5,3),pick(4,3)]],[goal(7,4),[]]])
+  New Intentions: intents([[goal(9,9),[]]],[[goal(4,3),[move(5,3),pick(4,3)]],[goal(7,4),[]]])
+  Action: move(5,4)
+  Updated World: [stone_at(4,3)]
+  Observation: at(5,4)
+  Updated Intentions: intents([[goal(9,9),[]]],[[goal(4,3),[move(5,3),pick(4,3)]],[goal(7,4),[]]])
+Cycle 43:
+  Agent at: (5,4)
+  World: [stone_at(4,3)]
+  Percepts: [stone(4,3)]
+  Goals: [goal(4,3)]
+  Intentions: intents([[goal(9,9),[]]],[[goal(4,3),[move(5,3),pick(4,3)]],[goal(7,4),[]]])
+  New Intentions: intents([[goal(9,9),[]]],[[goal(4,3),[pick(4,3)]],[goal(7,4),[]]])
+  Action: move(5,3)
+  Updated World: [stone_at(4,3)]
+  Observation: at(5,3)
+  Updated Intentions: intents([[goal(9,9),[]]],[[goal(4,3),[pick(4,3)]],[goal(7,4),[]]])
+Cycle 44:
+  Agent at: (5,3)
+  World: [stone_at(4,3)]
+  Percepts: [stone(4,3)]
+  Goals: [goal(4,3)]
+  Intentions: intents([[goal(9,9),[]]],[[goal(4,3),[pick(4,3)]],[goal(7,4),[]]])
+  New Intentions: intents([[goal(9,9),[]]],[[goal(4,3),[]],[goal(7,4),[]]])
+  Action: pick(4,3)
+  Updated World: []
+  Observation: picked(4,3)
+  Updated Intentions: intents([[goal(9,9),[]]],[[goal(7,4),[]]])
+Cycle 45:
+  Agent at: (5,3)
+  World: []
+  Percepts: []
+  Goals: []
+  Intentions: intents([[goal(9,9),[]]],[[goal(7,4),[]]])
+  New Intentions: intents([[goal(9,9),[move(6,4),move(6,5),move(6,6),move(7,6),move(8,6),move(9,6),move(9,7),move(9,8),drop(9,9)]]],[[goal(7,4),[]]])
+  Action: move(5,4)
+  Updated World: []
+  Observation: at(5,4)
+  Updated Intentions: intents([[goal(9,9),[move(6,4),move(6,5),move(6,6),move(7,6),move(8,6),move(9,6),move(9,7),move(9,8),drop(9,9)]]],[[goal(7,4),[]]])
+Cycle 46:
+  Agent at: (5,4)
+  World: []
+  Percepts: []
+  Goals: []
+  Intentions: intents([[goal(9,9),[move(6,4),move(6,5),move(6,6),move(7,6),move(8,6),move(9,6),move(9,7),move(9,8),drop(9,9)]]],[[goal(7,4),[]]])
+  New Intentions: intents([[goal(9,9),[move(6,5),move(6,6),move(7,6),move(8,6),move(9,6),move(9,7),move(9,8),drop(9,9)]]],[[goal(7,4),[]]])
+  Action: move(6,4)
+  Updated World: []
+  Observation: at(6,4)
+  Updated Intentions: intents([[goal(9,9),[move(6,5),move(6,6),move(7,6),move(8,6),move(9,6),move(9,7),move(9,8),drop(9,9)]]],[[goal(7,4),[]]])
+Cycle 47:
+  Agent at: (6,4)
+  World: []
+  Percepts: []
+  Goals: []
+  Intentions: intents([[goal(9,9),[move(6,5),move(6,6),move(7,6),move(8,6),move(9,6),move(9,7),move(9,8),drop(9,9)]]],[[goal(7,4),[]]])
+  New Intentions: intents([[goal(9,9),[move(6,6),move(7,6),move(8,6),move(9,6),move(9,7),move(9,8),drop(9,9)]]],[[goal(7,4),[]]])
+  Action: move(6,5)
+  Updated World: []
+  Observation: at(6,5)
+  Updated Intentions: intents([[goal(9,9),[move(6,6),move(7,6),move(8,6),move(9,6),move(9,7),move(9,8),drop(9,9)]]],[[goal(7,4),[]]])
+Cycle 48:
+  Agent at: (6,5)
+  World: []
+  Percepts: []
+  Goals: []
+  Intentions: intents([[goal(9,9),[move(6,6),move(7,6),move(8,6),move(9,6),move(9,7),move(9,8),drop(9,9)]]],[[goal(7,4),[]]])
+  New Intentions: intents([[goal(9,9),[move(7,6),move(8,6),move(9,6),move(9,7),move(9,8),drop(9,9)]]],[[goal(7,4),[]]])
+  Action: move(6,6)
+  Updated World: []
+  Observation: at(6,6)
+  Updated Intentions: intents([[goal(9,9),[move(7,6),move(8,6),move(9,6),move(9,7),move(9,8),drop(9,9)]]],[[goal(7,4),[]]])
+Cycle 49:
+  Agent at: (6,6)
+  World: []
+  Percepts: []
+  Goals: []
+  Intentions: intents([[goal(9,9),[move(7,6),move(8,6),move(9,6),move(9,7),move(9,8),drop(9,9)]]],[[goal(7,4),[]]])
+  New Intentions: intents([[goal(9,9),[move(8,6),move(9,6),move(9,7),move(9,8),drop(9,9)]]],[[goal(7,4),[]]])
+  Action: move(7,6)
+  Updated World: []
+  Observation: at(7,6)
+  Updated Intentions: intents([[goal(9,9),[move(8,6),move(9,6),move(9,7),move(9,8),drop(9,9)]]],[[goal(7,4),[]]])
+Cycle 50:
+  Agent at: (7,6)
+  World: []
+  Percepts: []
+  Goals: []
+  Intentions: intents([[goal(9,9),[move(8,6),move(9,6),move(9,7),move(9,8),drop(9,9)]]],[[goal(7,4),[]]])
+  New Intentions: intents([[goal(9,9),[move(9,6),move(9,7),move(9,8),drop(9,9)]]],[[goal(7,4),[]]])
+  Action: move(8,6)
+  Updated World: []
+  Observation: at(8,6)
+  Updated Intentions: intents([[goal(9,9),[move(9,6),move(9,7),move(9,8),drop(9,9)]]],[[goal(7,4),[]]])
+Cycle 51:
+  Agent at: (8,6)
+  World: []
+  Percepts: []
+  Goals: []
+  Intentions: intents([[goal(9,9),[move(9,6),move(9,7),move(9,8),drop(9,9)]]],[[goal(7,4),[]]])
+  New Intentions: intents([[goal(9,9),[move(9,7),move(9,8),drop(9,9)]]],[[goal(7,4),[]]])
+  Action: move(9,6)
+  Updated World: []
+  Observation: at(9,6)
+  Updated Intentions: intents([[goal(9,9),[move(9,7),move(9,8),drop(9,9)]]],[[goal(7,4),[]]])
+Cycle 52:
+  Agent at: (9,6)
+  World: []
+  Percepts: []
+  Goals: []
+  Intentions: intents([[goal(9,9),[move(9,7),move(9,8),drop(9,9)]]],[[goal(7,4),[]]])
+  New Intentions: intents([[goal(9,9),[move(9,8),drop(9,9)]]],[[goal(7,4),[]]])
+  Action: move(9,7)
+  Updated World: []
+  Observation: at(9,7)
+  Updated Intentions: intents([[goal(9,9),[move(9,8),drop(9,9)]]],[[goal(7,4),[]]])
+Cycle 53:
+  Event: stone appears at (7,9)
+  Agent at: (9,7)
+  World: [stone_at(7,9)]
+  Percepts: [stone(7,9)]
+  Goals: [goal(7,9)]
+New Path Not Found: [goal(9,7),goal(9,6),goal(8,6),goal(7,6),goal(6,6),goal(6,5),goal(6,4),goal(7,4)]
+G :4 G1 :7New Path Found: [goal(9,7),goal(9,6),goal(8,6),goal(7,6),goal(6,6),goal(6,5),goal(6,4),goal(7,4)]
+G :4 G1 :7  Intentions: intents([[goal(9,9),[move(9,8),drop(9,9)]]],[[goal(7,9),[]],[goal(7,4),[]]])
+  New Intentions: intents([[goal(9,9),[drop(9,9)]]],[[goal(7,9),[]],[goal(7,4),[]]])
+  Action: move(9,8)
+  Updated World: [stone_at(7,9)]
+  Observation: at(9,8)
+  Updated Intentions: intents([[goal(9,9),[drop(9,9)]]],[[goal(7,9),[]],[goal(7,4),[]]])
+Cycle 54:
+  Agent at: (9,8)
+  World: [stone_at(7,9)]
+  Percepts: [stone(7,9)]
+  Goals: [goal(7,9)]
+  Intentions: intents([[goal(9,9),[drop(9,9)]]],[[goal(7,9),[]],[goal(7,4),[]]])
+  New Intentions: intents([[goal(9,9),[]]],[[goal(7,9),[]],[goal(7,4),[]]])
+  Action: drop(9,9)
+  Updated World: [stone_at(7,9)]
+  Observation: dropped(9,9)
+  Updated Intentions: intents([],[[goal(7,9),[]],[goal(7,4),[]]])
+Monster successfully slain
+true 
